@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jackyhe/Desktop/C++/DMOJ/Tunnels/main.cpp
+iostream
+-
+cstdlib
+-
+cstdio
+-
+vector
+-
+utility
+-
+queue
+-
+
