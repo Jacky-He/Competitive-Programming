@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jackyhe/Desktop/C++/Codeforces/Twins/main.cpp
+iostream
+-
+cstdlib
+-
+cstdio
+-
+utility
+-
+vector
+-
+
