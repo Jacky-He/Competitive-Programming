@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jackyhe/Desktop/C++/Codeforces/Subway Innovation/main.cpp
+iostream
+-
+cstdlib
+-
+cstdio
+-
+utility
+-
+vector
+-
+deque
+-
+unordered_map
+-
+
