@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jackyhe/Desktop/C++/DMOJ/Nightmare-a-thon/main.cpp
+iostream
+-
+cstdlib
+-
+cstdio
+-
+vector
+-
+utility
+-
+
