@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jackyhe/Desktop/C++/Codeforces/Minimum Sum/main.cpp
+iostream
+-
+utility
+-
+cstdio
+-
+cstdlib
+-
+vector
+-
+
