@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jackyhe/Desktop/C++/Codeforces/Taxi/main.cpp
+utility
+-
+cstdio
+-
+cstdlib
+-
+iostream
+-
+
